@@ -31,10 +31,12 @@ img{
     text-align: center;
     color: rgb(33, 31, 34);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: auto;
+    font-size: 80px;
     
 }
 
 .style_button{
-    color: white;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-right: 20px;
 }

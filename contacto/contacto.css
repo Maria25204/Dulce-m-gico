@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    background-color: rgb(197, 161, 231);
+    height: auto;
+}
+img{
+    margin-left: 10px;
+    border-radius: 50px;
+    width: 110px;
+    height: auto;
+}
+h1{
+    text-align: center;
+}
